@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ExtraTranslation">Week7Day4_StdentDatabase_refactored</string>
+    <string name="edit_student">Edit Student</string>
+    <string name="name">Name</string>
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="gpa">GPA</string>
+    <string name="dob">DOB</string>
+    <string name="home_city">Home City</string>
+    <string name="home_state">Home State</string>
+    <string name="ssn">SSN</string>
+    <string name="select_student">Select Student</string>
+    <string name="insert_student">Insert Student</string>
+    <string name="updtate_student">Updtate Student</string>
+    <string name="delete_student">Delete Student</string>
+</resources>
